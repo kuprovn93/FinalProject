@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1039428626533-cpm2bbpq724hs8scvl2dlohleq631urj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://socialboard-b1a1e-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1039428626533</string>
+    <string name="google_api_key" translatable="false">AIzaSyC6vgq4zDuUa7SuwugK0NIth6hbSwJ9DhA</string>
+    <string name="google_app_id" translatable="false">1:1039428626533:android:b9cd6bfb38e927c5af7e8c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC6vgq4zDuUa7SuwugK0NIth6hbSwJ9DhA</string>
+    <string name="google_storage_bucket" translatable="false">socialboard-b1a1e.appspot.com</string>
+    <string name="project_id" translatable="false">socialboard-b1a1e</string>
+</resources>
