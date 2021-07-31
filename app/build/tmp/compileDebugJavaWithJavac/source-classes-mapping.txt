@@ -1,0 +1,117 @@
+model/Users.java
+ model.Users
+com/example/socialboard/BuildConfig.java
+ com.example.socialboard.BuildConfig
+model/Boards.java
+ model.Boards
+model/Messages.java
+ model.Messages
+com/example/socialboard/databinding/ActivityProfileBinding.java
+ com.example.socialboard.databinding.ActivityProfileBinding
+com/example/socialboard/databinding/ActivityChatBinding.java
+ com.example.socialboard.databinding.ActivityChatBinding
+com/example/socialboard/SplashScreen.java
+ com.example.socialboard.SplashScreen
+ com.example.socialboard.SplashScreen$1
+com/example/socialboard/Profile.java
+ com.example.socialboard.Profile
+ com.example.socialboard.Profile$1
+ com.example.socialboard.Profile$2
+com/example/socialboard/databinding/ActivityRegisterBinding.java
+ com.example.socialboard.databinding.ActivityRegisterBinding
+model/UserAdapter.java
+ model.UserAdapter
+ model.UserAdapter$1
+ model.UserAdapter$ViewHolder
+com/example/socialboard/Register.java
+ com.example.socialboard.Register
+ com.example.socialboard.Register$1
+ com.example.socialboard.Register$1$1
+ com.example.socialboard.Register$1$2
+ com.example.socialboard.Register$2
+com/example/socialboard/databinding/ContentMainBinding.java
+ com.example.socialboard.databinding.ContentMainBinding
+com/example/socialboard/databinding/ActivitySettingsBinding.java
+ com.example.socialboard.databinding.ActivitySettingsBinding
+com/example/socialboard/databinding/ActivitySplashScreenBinding.java
+ com.example.socialboard.databinding.ActivitySplashScreenBinding
+com/example/socialboard/databinding/SenderLayoutItemImageBinding.java
+ com.example.socialboard.databinding.SenderLayoutItemImageBinding
+com/example/socialboard/databinding/NavHeaderBinding.java
+ com.example.socialboard.databinding.NavHeaderBinding
+com/example/socialboard/ChangeDetails.java
+ com.example.socialboard.ChangeDetails
+ com.example.socialboard.ChangeDetails$1
+ com.example.socialboard.ChangeDetails$1$1
+com/example/socialboard/databinding/MyEditTextBinding.java
+ com.example.socialboard.databinding.MyEditTextBinding
+com/example/socialboard/Board.java
+ com.example.socialboard.Board
+ com.example.socialboard.Board$1
+ com.example.socialboard.Board$2
+ com.example.socialboard.Board$2$1
+ com.example.socialboard.Board$2$2
+ com.example.socialboard.Board$3
+ com.example.socialboard.Board$4
+ com.example.socialboard.Board$4$1
+com/example/socialboard/databinding/ActivityBoardBinding.java
+ com.example.socialboard.databinding.ActivityBoardBinding
+com/example/socialboard/databinding/SenderLayoutItemBinding.java
+ com.example.socialboard.databinding.SenderLayoutItemBinding
+com/example/socialboard/databinding/ReceiverLayoutImageBinding.java
+ com.example.socialboard.databinding.ReceiverLayoutImageBinding
+com/example/socialboard/databinding/ActivityMainBinding.java
+ com.example.socialboard.databinding.ActivityMainBinding
+com/example/socialboard/databinding/MainUsersRowBinding.java
+ com.example.socialboard.databinding.MainUsersRowBinding
+com/example/socialboard/Settings.java
+ com.example.socialboard.Settings
+ com.example.socialboard.Settings$1
+ com.example.socialboard.Settings$2
+ com.example.socialboard.Settings$3
+ com.example.socialboard.Settings$4
+ com.example.socialboard.Settings$5
+ com.example.socialboard.Settings$5$1
+ com.example.socialboard.Settings$6
+com/example/socialboard/databinding/ReceiverLayoutBinding.java
+ com.example.socialboard.databinding.ReceiverLayoutBinding
+model/BoardAdapter.java
+ model.BoardAdapter
+ model.BoardAdapter$1
+ model.BoardAdapter$ViewHolder
+com/example/socialboard/databinding/ActivityLoginBinding.java
+ com.example.socialboard.databinding.ActivityLoginBinding
+com/example/socialboard/Login.java
+ com.example.socialboard.Login
+ com.example.socialboard.Login$1
+ com.example.socialboard.Login$2
+ com.example.socialboard.Login$2$1
+ com.example.socialboard.Login$3
+ com.example.socialboard.Login$3$1
+ com.example.socialboard.Login$3$2
+ com.example.socialboard.Login$4
+ com.example.socialboard.Login$5
+ com.example.socialboard.Login$6
+com/example/socialboard/MainActivity.java
+ com.example.socialboard.MainActivity
+com/example/socialboard/databinding/ActivityChangeDetailsBinding.java
+ com.example.socialboard.databinding.ActivityChangeDetailsBinding
+model/MessagesAdapter.java
+ model.MessagesAdapter
+ model.MessagesAdapter$1
+ model.MessagesAdapter$2
+ model.MessagesAdapter$ReceiverViewHolder
+ model.MessagesAdapter$SenderViewHolder
+com/example/socialboard/ChatActivity.java
+ com.example.socialboard.ChatActivity
+ com.example.socialboard.ChatActivity$1
+ com.example.socialboard.ChatActivity$10
+ com.example.socialboard.ChatActivity$2
+ com.example.socialboard.ChatActivity$3
+ com.example.socialboard.ChatActivity$3$1
+ com.example.socialboard.ChatActivity$4
+ com.example.socialboard.ChatActivity$5
+ com.example.socialboard.ChatActivity$6
+ com.example.socialboard.ChatActivity$7
+ com.example.socialboard.ChatActivity$8
+ com.example.socialboard.ChatActivity$9

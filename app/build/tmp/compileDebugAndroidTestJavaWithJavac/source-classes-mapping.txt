@@ -1,0 +1,6 @@
+com/example/socialboard/test/BuildConfig.java
+ com.example.socialboard.test.BuildConfig
+com/example/socialboard/ExampleInstrumentedTest.java
+ com.example.socialboard.ExampleInstrumentedTest
+com/example/socialboard/LoginLogoutTest.java
+ com.example.socialboard.LoginLogoutTest
