@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039428626533",
+    "firebase_url": "https://socialboard-b1a1e-default-rtdb.firebaseio.com",
+    "project_id": "socialboard-b1a1e",
+    "storage_bucket": "socialboard-b1a1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039428626533:android:b9cd6bfb38e927c5af7e8c",
+        "android_client_info": {
+          "package_name": "com.example.socialboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039428626533-g4q16vcaimh8rb0p9m1l9m64t0nk9mts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialboard",
+            "certificate_hash": "89478724dd92ad6a88762b16b1a631f3310d5f52"
+          }
+        },
+        {
+          "client_id": "1039428626533-cpm2bbpq724hs8scvl2dlohleq631urj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6vgq4zDuUa7SuwugK0NIth6hbSwJ9DhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039428626533-cpm2bbpq724hs8scvl2dlohleq631urj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
